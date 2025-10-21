@@ -2,8 +2,8 @@
 
 Tech enthusiast looking to learn Full-Stack<br/>
 A creative<br/>
-I create mini projects to intergrate what I've learn<br/>
-I plan to document my journey on [TikTok](https://www.tiktok.com/@ncjvcodes)<br/>
+I'm creating mini projects to intergrate what I've learn<br/>
+I plan to document my journey eventually on [TikTok](https://www.tiktok.com/@ncjvcodes)<br/>
 
 
 # 💻 Tech Stack:
