@@ -3,7 +3,6 @@
 Tech enthusiast looking to learn Full-Stack through self-study<br/>
 A creative<br/>
 I'm creating mini projects to intergrate what I've learned<br/>
-I plan to eventually document my journey on [TikTok](https://www.tiktok.com/@ncjvcodes)<br/>
 
 
 # 💻 Tech Stack:
